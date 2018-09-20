@@ -16,7 +16,7 @@ For example:    153 = 1*1*1 + 5*5*5 + 3*3*3 = 153 is an Armstrong number.
 To output the reverse of an inputed string value.
 ## second_runnerup.py
 A program to find out the second runnerup score from a input of n number of scores and an array of n score results.
-### Sample Input:
+#### Sample Input:
 5, [5,7,9,3,4]
-### Sample Output:
+#### Sample Output:
 Runnerup Score = 7
