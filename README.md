@@ -26,4 +26,3 @@ Time moves quickly for dogs. 8 years in a human's life is like 45 years in a dog
 How old would you be if you were a dog? Here's how you convert your age to dog years:<br>
 The first two human years of a dog's life count as 10.5 dog years each.<br>
 Each human year following counts as 4 dog years.
-
