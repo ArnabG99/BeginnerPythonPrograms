@@ -1,4 +1,4 @@
-hr12 = "01:05:45AM"
+hr12 = "01:05:45AM" #12hr time in format 00:00:00AM
 hr24 = ""
 
 h = int(hr12[0:2])
